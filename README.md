@@ -1,2 +1,7 @@
 # AdCreator
 Tool to create customised web adverts
+
+For Local Build:
+ - npm install
+ - npm run dev
+ - http://localhost:3000/

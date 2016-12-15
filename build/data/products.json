@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "data": {
+    "products": [
+      {
+        "id": "12345671",
+        "name": "TV",
+        "img": "/img/tv.jpeg",
+        "description": "Lorem ipsum TV Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "link": "http://affectv.com/?id=1"
+      },
+      {
+        "id": "12345672",
+        "name": "Blu-ray",
+        "img": "/img/blueray.jpeg",
+        "description": "Lorem ipsum Blu-ray Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "link": "http://affectv.com/?id=2"
+      },
+      {
+        "id": "12345673",
+        "name": "Headphones",
+        "img": "/img/headphones.jpeg",
+        "description": "Lorem ipsum Headphones Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "link": "http://affectv.com/?id=3"
+      },
+      {
+        "id": "12345674",
+        "name": "Laptop",
+        "img": "/img/laptop.jpeg",
+        "description": "Lorem ipsum Laptop Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "link": "http://affectv.com/?id=4"
+      },
+      {
+        "id": "12345675",
+        "name": "Sunglasses",
+        "img": "/img/sunglasses.jpeg",
+        "description": "Lorem ipsum Sunglasses Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+        "link": "http://affectv.com/?id=5"
+      }
+    ]
+  }
+}
